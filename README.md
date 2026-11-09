@@ -23,7 +23,7 @@ This application helps manage parcel dispatch operations by accepting parcel det
 - Visual Studio Code
 - Python Standard Library (`math`)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Smart_Parcel_Dispatch_Tracker/
@@ -43,7 +43,7 @@ Smart_Parcel_Dispatch_Tracker/
 
 **4.** Enter parcel details and type `DONE` as the Parcel ID to finish dispatch.
 
-## 📚 Python Concepts Used
+##  Python Concepts Used
 
 - Data types and operators
 - Lists and dictionaries
@@ -53,7 +53,7 @@ Smart_Parcel_Dispatch_Tracker/
 - Modules and imports
 - File handling and exception handling
 
-## ⚠️ Exception Handling
+##  Exception Handling
 
 | Exception | Purpose |
 |---|---|
@@ -61,7 +61,7 @@ Smart_Parcel_Dispatch_Tracker/
 | `KeyError` | Handles unavailable delivery services. |
 | `FileNotFoundError` | Handles a missing parcel records file. |
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates the practical application of Python programming concepts to develop a structured parcel dispatch management system.
 
