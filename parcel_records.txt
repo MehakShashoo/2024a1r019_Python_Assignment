@@ -1,0 +1,2 @@
+PKG101 | Mahi | 5.0 kg | 120.0 km | Standard | Rs. 380.00
+PKG106 | Ajay | 2.5 kg | 90.0 km | Express | Rs. 293.75
